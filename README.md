@@ -101,4 +101,3 @@ This project intentionally progresses from beginner to advanced topics:
 
 **Piotrek Miklosz**  
 Data-Driven Supply Chain Analyst | SQL • Python • Power BI  
-📧 Connect: [LinkedIn Profile] or [YouTube Channel]
